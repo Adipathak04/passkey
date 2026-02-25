@@ -28,5 +28,10 @@ attachments/files/25530445/BML.help.doc.docx)
 [file input-output 7.pdf](https://github.com/user-attachments/files/25530479/file.input-output.7.pdf)
 [dictionary & set 4.pdf](https://github.com/user-attachments/files/25530478/dictionary.set.4.pdf)
 
-[SQL.docx](https://github.com/user-attachments/files/25530509/SQL.docx)
+[SQL.docx](https://github.com/user-attachments/file[1Z0-1122-23 - Oracle Cloud Infrastructure 2023 AI Foundations Associate.pdf](https://github.com/user-attachments/files/25544138/1Z0-1122-23.-.Oracle.Cloud.Infrastructure.2023.AI.Foundations.Associate.pdf)
+s/25530509/SQL.docx)
+[Oracle BP (1) 6.pdf](https://github.com/user-attachments/files/25544172/Oracle.BP.1.6.pdf)
+[cpq doc1 pdf.pdf](https://github.com/user-attachments/files/25544183/cpq.doc1.pdf.pdf)
+[new doc  cpq.xlsx](https://github.com/user-attachments/files/25544187/new.doc.cpq.xlsx)
+
 
